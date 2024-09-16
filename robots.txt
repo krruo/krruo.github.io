@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://krruo.github.io/gKh/sitemap.gKh.gz
